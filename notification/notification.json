@@ -1,5 +1,11 @@
 [{
-  "title":"",
-  "time":"",
-  "link":"https://xxx.md"
+  "time":1552388400,
+  "zh":{
+    "title":"Ontdex正式上线",
+    "link":"",
+  },
+  "en":{
+    "title":"Ontdex officially launched",
+    "link":"",
+  }
 }]
